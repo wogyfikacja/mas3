@@ -7,10 +7,10 @@ namespace mas3
 {
     public class Substances
     {
-        private String? chemicalName;
-        private String? vernacular;
+        private string chemicalName;
+        private string vernacular;
         private SubstanceSolubility solubility;
-        public Substances(String? chemicalName, String? vernacular, SubstanceSolubility solubility)
+        public Substances(string chemicalName, string vernacular, SubstanceSolubility solubility)
         {
             this.chemicalName = chemicalName;
             this.vernacular = vernacular;

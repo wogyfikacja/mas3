@@ -19,7 +19,7 @@ namespace mas3 // Note: actual namespace depends on the project name.
            
            //overlapping
            var solubility = SubstanceSolubility.H20_SOLUBLE |  SubstanceSolubility.HEXAN_SOLUBLE;
-           var substance = new Substances("h20","woda",solubility);
+           var substance = new Substances("h20","water",solubility);
            Console.WriteLine(substance.ToString());
            Console.WriteLine("---------------");
 
