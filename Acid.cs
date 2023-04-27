@@ -10,7 +10,7 @@ namespace mas3
         private double pka;
         public double Pka { get => pka; set => pka = value; }
 
-        public Acid(double pka, string? vernacular, string? chemicalName, int molarMass, int density) : base(vernacular, chemicalName, molarMass, density)
+        public Acid(double pka, string vernacular, string chemicalName, int molarMass, int density) : base(vernacular, chemicalName, molarMass, density)
         {
             this.pka = pka;
             this.Vernacular = vernacular;

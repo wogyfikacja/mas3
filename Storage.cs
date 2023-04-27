@@ -8,7 +8,6 @@ namespace mas3
     public class Storage : IRoom
     {
         public int RoomNumber { get; private set; }
-
         public int Area { get; private set; }
         public Dictionary<string, int> substances { get; private set; }
         public Storage(int roomNumber, int area,  Dictionary<string, int> substances)
