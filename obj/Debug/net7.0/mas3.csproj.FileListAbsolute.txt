@@ -1,0 +1,15 @@
+C:\Users\emil1\Documents\MAS\mas3\obj\Debug\net7.0\mas3.csproj.AssemblyReference.cache
+C:\Users\emil1\Documents\MAS\mas3\obj\Debug\net7.0\mas3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil1\Documents\MAS\mas3\obj\Debug\net7.0\mas3.AssemblyInfoInputs.cache
+C:\Users\emil1\Documents\MAS\mas3\obj\Debug\net7.0\mas3.AssemblyInfo.cs
+C:\Users\emil1\Documents\MAS\mas3\obj\Debug\net7.0\mas3.csproj.CoreCompileInputs.cache
+C:\Users\emil1\Documents\MAS\mas3\bin\Debug\net7.0\mas3.exe
+C:\Users\emil1\Documents\MAS\mas3\bin\Debug\net7.0\mas3.deps.json
+C:\Users\emil1\Documents\MAS\mas3\bin\Debug\net7.0\mas3.runtimeconfig.json
+C:\Users\emil1\Documents\MAS\mas3\bin\Debug\net7.0\mas3.dll
+C:\Users\emil1\Documents\MAS\mas3\bin\Debug\net7.0\mas3.pdb
+C:\Users\emil1\Documents\MAS\mas3\obj\Debug\net7.0\mas3.dll
+C:\Users\emil1\Documents\MAS\mas3\obj\Debug\net7.0\refint\mas3.dll
+C:\Users\emil1\Documents\MAS\mas3\obj\Debug\net7.0\mas3.pdb
+C:\Users\emil1\Documents\MAS\mas3\obj\Debug\net7.0\mas3.genruntimeconfig.cache
+C:\Users\emil1\Documents\MAS\mas3\obj\Debug\net7.0\ref\mas3.dll
