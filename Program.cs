@@ -12,13 +12,14 @@ namespace mas3 // Note: actual namespace depends on the project name.
            AcelContainingCompounds second = new Ester(true,2.0,2.0,possibleSmells,"kwiatowy","k20",1,1);
            
            //this is because i was a little too lazy, and thats how the language works. should only use one type of inheritance from what i see
-           var secondButEster = new Ester(true,2.0,2.0,possibleSmells,"kwiatowy","k20",1,1);
+           var secondButEster = (Ester)second;
            Console.WriteLine(first.ToString());
            Console.WriteLine(second.ToString());
            Console.WriteLine("---------------");
            
            //overlapping
-           var solubility = SubstanceSolubility.H20_SOLUBLE |  SubstanceSolubility.HEXAN_SOLUBLE;
+           var solubility = SubstanceSolubility.ACOET_SOLUBLE |  SubstanceSolubility.DCM_SOLUBLE
+                ;
            var substance = new Substances("h20","water",solubility);
            Console.WriteLine(substance.ToString());
            Console.WriteLine("---------------");

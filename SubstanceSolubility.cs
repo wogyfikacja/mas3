@@ -2,5 +2,5 @@ namespace mas3
 {
     [Flags]
     public enum SubstanceSolubility
-    {ACOET_SOLUBLE=0, H20_SOLUBLE=1, HEXAN_SOLUBLE=2, DCM_SOLUBLE=4}
+    {ACOET_SOLUBLE=1, H20_SOLUBLE=2, HEXAN_SOLUBLE=4, DCM_SOLUBLE=8}
 }

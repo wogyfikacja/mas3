@@ -11,7 +11,6 @@ namespace mas3
         public double vanDerWaalsA { get; private set;}
         public double vanDerWaalsB { get; private set;}
         public List<string> PossibleSmell {get; private set;}
-
         public double CriticalTemperature => 8*vanDerWaalsA/(27*vanDerWaalsB*Constants.GasConstant);
 
         public Ester(bool isAryl, double vanDerWaalsA, double vanDerWaalsB,List<string> possibleSmell, string vernacular, string chemicalName, int molarMass, int density) : base(vernacular, chemicalName, molarMass, density)
